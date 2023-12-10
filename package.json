@@ -3,11 +3,27 @@
   "displayName": "Dunkel Morgen",
   "description": "A custom dark color theme",
   "version": "0.0.1",
+  "publisher": "ParthipanNatkunam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Parthipan-Natkunam/dunkel-morgen"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "Dark",
+    "Morning",
+    "Morgen",
+    "Dunkel",
+    "Dunkel Morgen",
+    "Parthipan",
+    "yellow",
+    "black"
   ],
   "contributes": {
     "themes": [
