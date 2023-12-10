@@ -1,8 +1,8 @@
 {
   "name": "dunkel-morgen",
   "displayName": "Dunkel Morgen",
-  "description": "A custom dark color theme",
-  "version": "0.0.1",
+  "description": "A custom dark color theme with prominent balck and yellow colors",
+  "version": "0.0.2",
   "publisher": "ParthipanNatkunam",
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "yellow",
     "black"
   ],
+  "icon": "./docs/dmlogo.png",
   "contributes": {
     "themes": [
       {

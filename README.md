@@ -1,4 +1,8 @@
-# Dunkel Morgen
+
+<p>
+<img src="./docs/dmlogo.png" width="150" alt="logo"/>
+<h1>Dunkel Morgen</h1>
+</p>
 A custom dark theme for VS Code IDE
 
 ## Screenshots
