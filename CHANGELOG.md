@@ -10,3 +10,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add basic theme colors
 ## [0.0.2] - 10.12.2023
 - Add theme logo
+## [0.0.3] - 10.12.2023
+- Make minimum VS Code engine to 1.84.0

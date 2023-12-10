@@ -9,7 +9,7 @@
     "url": "https://github.com/Parthipan-Natkunam/dunkel-morgen"
   },
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": ">=1.84.0"
   },
   "categories": [
     "Themes"
