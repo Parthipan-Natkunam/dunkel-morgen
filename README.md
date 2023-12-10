@@ -1,4 +1,4 @@
-# Dunkle Morgen
+# Dunkel Morgen
 A custom dark theme for VS Code IDE
 
 ## Screenshots
